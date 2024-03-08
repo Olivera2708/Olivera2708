@@ -12,8 +12,8 @@
 I am a Student from Novi Sad, Serbia.
 
 - 🔭 I’m studying Softwere Engeneering and Information Technologies at Faculty of Tehnical Sciences.
-- 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
+- 🌱 Exploring Artificial Inteligence and Machine Learning.
+- ⚡ In my free time I make Android apps and games.
 
 ---
 
@@ -32,11 +32,3 @@ I am a Student from Novi Sad, Serbia.
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olivera2708&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### ✍️ Blog Posts : 
-- [How to Create REST APIs with Java and Spring Boot](https://www.twilio.com/blog/create-rest-apis-java-spring-boot)
-- [How to Implement Memoization in React to Improve Performance](https://www.sitepoint.com/implement-memoization-in-react-to-improve-performance/)
-- [How to Create an Impressive GitHub Profile README](https://www.sitepoint.com/github-profile-readme/)<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
