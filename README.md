@@ -31,4 +31,4 @@ I am a Student from Novi Sad, Serbia.
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olivera2708&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olivera2708&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
