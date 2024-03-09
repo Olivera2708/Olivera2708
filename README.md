@@ -1,7 +1,7 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Olivera2708&style=flat&color=lightgrey" alt=""></p>
 
-### :woman_technologist: &nbsp;About Me :
+### :woman_technologist: &nbsp;About Me:
 
 I am a Student from Novi Sad, Serbia.
 
@@ -9,9 +9,7 @@ I am a Student from Novi Sad, Serbia.
 - 🔭 Exploring Artificial Inteligence and Machine Learning.
 - ⌛ In my free time I make Android apps and games.
 
----
-
-### :iphone: &nbsp;My profiles :
+### :iphone: &nbsp;My profiles:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/olivera-radovanović-70bba5212/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&style=flat" alt="LinkedIn Badge"></a>
@@ -20,7 +18,7 @@ I am a Student from Novi Sad, Serbia.
 
 ---
 
-### 🛠 &nbsp;Favourite Languages and Tools :
+### 🛠 &nbsp;Favourite Languages and Tools:
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
