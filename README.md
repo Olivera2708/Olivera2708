@@ -29,5 +29,13 @@ I am a Student from Novi Sad, Serbia.
 
 ---
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Olivera2708&show_icons=true&theme=dracula&hide=stars&rank_icon=github" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olivera2708&hide=html&theme=dracula&layout=compact" />
+</a>
+
+
 [![Olivera's GitHub stats](https://github-readme-stats.vercel.app/api?username=Olivera2708&show_icons=true&theme=dracula&hide=stars&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olivera2708&hide=html&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
