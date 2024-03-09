@@ -2,7 +2,7 @@
 
 I am a Student from Novi Sad, Serbia.
 
-- 👩‍🎓 I’m studying Software Engineering and Information Technologies at Faculty of Technical Sciences.
+- 👩‍🎓 I’m studying Software Engineering and Information Technologies at the Faculty of Technical Sciences.
 - 🔭 Exploring Artificial Intelligence and Machine Learning.
 - ⌛ In my free time I make Android apps and games.
 
