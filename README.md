@@ -1,7 +1,4 @@
-
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Olivera2708&style=flat&color=lightgrey" alt=""></p>
-
-### :woman_technologist: &nbsp;About Me:
+## :woman_technologist: &nbsp;About Me:
 
 I am a Student from Novi Sad, Serbia.
 
