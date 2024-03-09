@@ -3,7 +3,7 @@
   <a href="https://www.linkedin.com/in/olivera-radovanović-70bba5212/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 <p align="center">
-  <a href="https://play.google.com/store/apps/dev?id=7363132536650115149" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Google_Play_2022_logo.svg/2560px-Google_Play_2022_logo.svg.png" alt="Play Store Bedge"></a>
+  <a href="https://play.google.com/store/apps/dev?id=7363132536650115149"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Play Store Bedge"></a>
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Olivera2708&style=flat-square&color=blue" alt=""></p>
 
