@@ -13,8 +13,6 @@ I am a Student from Novi Sad, Serbia.
   <a href="https://play.google.com/store/apps/dev?id=7363132536650115149"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white&style=flat" alt="Play Store Bedge"></a>
 </p>
 
----
-
 ### 🛠 &nbsp;Favourite Languages and Tools
 
 <p>
