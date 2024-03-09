@@ -1,4 +1,4 @@
-<p align="center"><img src="profile.png" width="100"/></p>
+<iframe src="https://giphy.com/embed/d3MLdIYIHup9Q2xG" width="100" height="100" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/laptop-rotoscope-macbook-d3MLdIYIHup9Q2xG">via GIPHY</a></p>
 <p align="center">
   <a href="https://www.linkedin.com/in/olivera-radovanović-70bba5212/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&style=flat" alt="LinkedIn Badge"></a>
   <a href="https://play.google.com/store/apps/dev?id=7363132536650115149"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white&style=flat" alt="Play Store Bedge"></a>
