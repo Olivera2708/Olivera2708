@@ -11,7 +11,7 @@ I am a Student from Novi Sad, Serbia.
 
 ---
 
-### :iphone: &nbsp;Contact :
+### :iphone: &nbsp;My profiles :
 
 <p align="center">
   <a href="https://www.linkedin.com/in/olivera-radovanović-70bba5212/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&style=flat" alt="LinkedIn Badge"></a>
