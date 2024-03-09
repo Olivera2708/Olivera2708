@@ -9,9 +9,9 @@ I am a Student from Novi Sad, Serbia.
 - 🔭 Exploring Artificial Inteligence and Machine Learning.
 - ⌛ In my free time I make Android apps and games.
 
-### :iphone: &nbsp;My profiles:
+#### :envelope: &nbsp;My profiles:
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/olivera-radovanović-70bba5212/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&style=flat" alt="LinkedIn Badge"></a>
   <a href="https://play.google.com/store/apps/dev?id=7363132536650115149"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white&style=flat" alt="Play Store Bedge"></a>
 </p>
