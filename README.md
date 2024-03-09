@@ -11,9 +11,9 @@
 
 I am a Student from Novi Sad, Serbia.
 
-- 🔭 I’m studying Softwere Engeneering and Information Technologies at Faculty of Tehnical Sciences.
-- 🌱 Exploring Artificial Inteligence and Machine Learning.
-- ⚡ In my free time I make Android apps and games.
+- 👩‍🎓 I’m studying Softwere Engeneering and Information Technologies at Faculty of Tehnical Sciences.
+- 🔭 Exploring Artificial Inteligence and Machine Learning.
+- ⌛ In my free time I make Android apps and games.
 
 ---
 
