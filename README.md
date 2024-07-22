@@ -28,6 +28,6 @@ I am a Student from Novi Sad, Serbia.
 ---
 
 <div>
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Olivera2708&show_icons=true&theme=dracula&hide=stars&rank_icon=github" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Olivera2708&show_icons=true&theme=dracula&hide=stars&rank_icon=github&include_all_commits=true" />
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olivera2708&hide=html,css&theme=dracula&layout=compact" />
 </div>
