@@ -3,7 +3,9 @@
 I’m a Software Engineer from Novi Sad, Serbia.
 
 👩‍🎓 I earned my Bachelor’s degree in Software Engineering from the Faculty of Technical Sciences, University of Novi Sad.
+
 🔭 I’m currently exploring the fields of Artificial Intelligence and Machine Learning.
+
 ⌛ In my free time, I enjoy developing games and experimenting with creative ideas.
 
 #### &nbsp;My profiles
