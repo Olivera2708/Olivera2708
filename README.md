@@ -1,10 +1,10 @@
 ## :woman_technologist: &nbsp;About Me
 
-I am a Student from Novi Sad, Serbia.
+I’m a Software Engineer from Novi Sad, Serbia.
 
-- 👩‍🎓 I’m studying Software Engineering and Information Technologies at the Faculty of Technical Sciences.
-- 🔭 Exploring Artificial Intelligence and Machine Learning.
-- ⌛ In my free time I enjoy making games.
+👩‍🎓 I earned my Bachelor’s degree in Software Engineering from the Faculty of Technical Sciences, University of Novi Sad.
+🔭 I’m currently exploring the fields of Artificial Intelligence and Machine Learning.
+⌛ In my free time, I enjoy developing games and experimenting with creative ideas.
 
 #### &nbsp;My profiles
 
