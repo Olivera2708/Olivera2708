@@ -26,10 +26,3 @@ I’m a Software Engineer from Novi Sad, Serbia.
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" **alt="AWS" width="40" height="40"/>&nbsp;
 </p>
-
----
-
-<div>
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Olivera2708&show_icons=true&theme=dracula&hide=stars&rank_icon=github" />
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olivera2708&hide=html,css&theme=dracula&layout=compact" />
-</div>
